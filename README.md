@@ -18,7 +18,7 @@
 <br>F3: 快速交換命運卡
 <br>![GITHUB](https://i.imgur.com/I0sEJMN.png)
 
-+未來預計加入功能:
++ 未來預計加入功能:
 <br>1.快速洗色
 <br>2.快速洗裝備、物品詞墜
 
